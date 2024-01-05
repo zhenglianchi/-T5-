@@ -1,0 +1,18 @@
+1.
+Question: Which of these states is farthest north?
+Context: An aerial view of a painting of a forest.
+Options: (A) West Virginia (B) Louisiana (C) Arizona (D) Oklahoma
+answer：A
+7.
+Question: Which animal's mouth is also adapted for bottom feeding?
+Context: Sturgeons eat invertebrates, plants, and small fish. They are bottom feeders. Bottom feeders find their food at the bottom of rivers, lakes, and the 
+ocean.
+The 's mouth is located on the underside of its head and points downward. Its mouth is adapted for bottom feeding.
+Figure: sturgeon. A fish is sticking out of the top of a fish tank.
+Options: (A) discus (B) armored catfish
+answer：B
+26.
+Question: How long does it take to bake lasagna in the oven?
+Context: Select the better estimate.
+Options: (A) 33 minutes (B) 33 hours
+answer：A
